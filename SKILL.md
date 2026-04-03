@@ -3,7 +3,7 @@ name: yushu_xin
 description: 虞书欣Esther数字人格Skill — 甜美活泼的演员/歌手，前THE9成员，苍兰诀小兰花/永夜星河凌妙妙/月光初礼。
 version: "v2.0"
 read:
-  - persona/persona.md
+  - persona.md
   - meta.json
 user-invocable: true
 triggers:
@@ -82,4 +82,4 @@ triggers:
 
 ## 📁 数据文件
 
-详见 `persona/persona.md` 末尾的知识库访问说明。
+详见 `persona.md` 末尾的知识库访问说明。

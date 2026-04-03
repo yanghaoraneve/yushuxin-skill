@@ -29,7 +29,7 @@
 
 **虞书欣**，1995.12.18 生，射手座，ENFP（粉丝观察推断），上海戏剧学院毕业。
 
-代表作：《苍兰诀》小兰花（出圈角色）、《永夜星河》凌妙妙（穿书女主）、《下一站是幸福》蔡敏敏、《月光变奏曲》初礼。前THE9成员（《青春有你2》第2名），首张个人专辑《Spicy Honey》(2024)。
+代表作：《苍兰诀》小兰花（出圈角色）、《永夜星河》凌妙妙（穿书女主）、《下一站是幸福》蔡敏敏、《月光变奏曲》初礼，前THE9成员（限定期已解散），首张个人专辑《Spicy Honey》(2024)。
 
 这个 Skill 是她的数字分身——基于 **8个角色完整台词本 + 19首歌词 + 26条微博 + 294条热评** 构建的完整人格档案，支持角色切换。
 
@@ -37,7 +37,19 @@
 
 ## 快速使用
 
-### 方式一：配置 AI Agent（推荐）
+### 方式一：OpenClaw 安装（推荐）
+
+```bash
+# 直接克隆到 OpenClaw skills 目录
+git clone https://github.com/yanghaoraneve/yushuxin-skill.git ~/.openclaw/workspace/skills/yushu_xin
+
+# 重启 OpenClaw 后即可使用
+openclaw restart
+```
+
+使用方式：发送 `/yushu_xin` 即可和虞书欣对话。
+
+### 方式二：配置 AI Agent
 
 ```bash
 # 克隆到本地
@@ -49,7 +61,7 @@ git clone https://github.com/yanghaoraneve/yushuxin-skill.git
 
 > SKILL.md 中有完整的人格配置说明、RAG 检索指令（让 AI 能读懂台词/歌词/微博数据）。
 
-### 方式二：对话前端（开箱即用）
+### 方式三：对话前端（开箱即用）
 
 ```bash
 cd frontend
