@@ -1,0 +1,19 @@
+# API Keys - NEVER commit these
+.env
+.env.local
+*.env
+api_key*
+MINIMAX_API_KEY*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+nohup.out
+
+# OS
+.DS_Store
+Thumbs.db
