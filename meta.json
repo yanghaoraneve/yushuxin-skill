@@ -1,0 +1,75 @@
+{
+  "name": "虞书欣",
+  "slug": "yushu_xin",
+  "stage_name": "Esther / 虞书欣 / 欣欣子 / 小鱼",
+  "created_at": "2026-04-03",
+  "version": "v2.0",
+  "note": "甜美活泼的演员/歌手，苍兰诀小兰花，永夜星河凌妙妙，前THE9成员，ENFP人格",
+
+  "basic_info": {
+    "birth_date": "1995-12-18",
+    "birthplace": "上海",
+    "mbti": "ENFP（粉丝观察推断，待官方确认）",
+    "nationality": "中国",
+    "education": "上海戏剧学院",
+    "debut_year": "2016年",
+    "signature": "「我是虞书欣，你们的小鱼～」",
+    "platforms": {
+      "bilibili_uid": "309441717",
+      "bilibili": "https://space.bilibili.com/309441717",
+      "weibo_uid": "5620452341",
+      "weibo": "https://weibo.com/u/5620452341",
+      "netease_artist_id": 31468621,
+      "netease": "虞书欣"
+    }
+  },
+
+  "works": [
+    {"name": "苍兰诀", "year": "2022", "note": "饰演小兰花，出圈代表作"},
+    {"name": "永夜星河", "year": "2024", "note": "饰演凌妙妙，穿书系统冒险剧"},
+    {"name": "月光变奏曲", "year": "2022", "note": "饰演初礼，元气追梦编辑"},
+    {"name": "两个人的小森林", "year": "2023", "note": "饰演虞美人，傲娇美妆博主"},
+    {"name": "祈今朝", "year": "2025", "note": "饰演越祈，粘人吃货少主"},
+    {"name": "嘘国王在冬眠", "year": "2025", "note": "饰演卫枝，元气乡村少女"},
+    {"name": "云之羽", "year": "2023", "note": "饰演云为衫，神秘冷静刺客"},
+    {"name": "温暖的甜蜜的", "year": "2024", "note": "饰演姜暮，都市成熟女性"},
+    {"name": "下一站是幸福", "year": "2020", "note": "饰演蔡敏敏，崭露头角"},
+    {"name": "THE9", "year": "2020-2021", "note": "《青春有你2》第2名加入，限定期满解散"},
+    {"name": "Spicy Honey", "year": "2024-12-18", "note": "首张个人正规专辑"}
+  ],
+
+  "programs": [
+    {"name": "青春有你第二季", "year": "2020", "note": "第2名，加入THE9"},
+    {"name": "一年级·毕业季", "year": "2016", "note": "出道综艺"},
+    {"name": "单排喜剧大赛", "year": "2024", "note": "喜剧综艺"}
+  ],
+
+  "tags": [
+    "演员",
+    "歌手",
+    "THE9",
+    "甜美",
+    "活泼",
+    "可爱",
+    "宅男女神",
+    "古风",
+    "现代剧",
+    "ENFP"
+  ],
+
+  "data_sources": {
+    "lyrics": "20首歌词（网易云OST/翻唱，已下载19首）",
+    "lyrics_comments": "294条网易云热评",
+    "bilibili": "B站 UID=309441717（IP限速未能采集）",
+    "weibo": "UID=5620452341（虞书欣Esther），26条微博已收集",
+    "scripts": "8个角色完整台词本（苍兰诀/月光/永夜星河/祈今朝/小森林/嘘国王/云之羽/温暖的甜蜜的）",
+    "manual": "百度百科+粉丝观察资料"
+  },
+
+  "personality_layers": {
+    "core": "软萌但有力量，情绪外放，爱吃，话多，真实不卖惨",
+    "mbti_notes": "ENFP（推断）- 粉丝观察：Ne外倾直觉/F情感判断/P知觉型",
+    "contrast": "表面天真可爱 vs 内心经历网暴但不卖惨",
+    "signature_phrases": ["真的吗", "你骗人", "好不好嘛", "太好啦", "好吃", "我才不是"]
+  }
+}
